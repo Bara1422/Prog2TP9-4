@@ -1,0 +1,18 @@
+[
+    {
+        "numero": 123,
+        "incendio": 0.9,
+        "explosion": 2.2,
+        "robo": 4.5
+    },
+    {
+        "numero": 1243,
+        "incendio": 0.9,
+        "explosion": 2.2,
+        "robo": 4.5,
+        "cantPersonas": 4,
+        "montoEquipamiento": 5.5,
+        "montoMobiliario": 4.2,
+        "montoPersona": 5.0
+    }
+]
